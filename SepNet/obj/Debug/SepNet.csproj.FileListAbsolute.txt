@@ -1,0 +1,30 @@
+C:\Users\vasyl\source\repos\SepNet\SepNet\bin\Debug\SepNet.exe.config
+C:\Users\vasyl\source\repos\SepNet\SepNet\bin\Debug\SepNet.exe
+C:\Users\vasyl\source\repos\SepNet\SepNet\bin\Debug\SepNet.pdb
+C:\Users\vasyl\source\repos\SepNet\SepNet\obj\Debug\SepNet.csprojResolveAssemblyReference.cache
+C:\Users\vasyl\source\repos\SepNet\SepNet\obj\Debug\SepNet.Properties.Resources.resources
+C:\Users\vasyl\source\repos\SepNet\SepNet\obj\Debug\SepNet.csproj.GenerateResource.cache
+C:\Users\vasyl\source\repos\SepNet\SepNet\obj\Debug\SepNet.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\source\repos\SepNet\SepNet\obj\Debug\SepNet.exe
+C:\Users\vasyl\source\repos\SepNet\SepNet\obj\Debug\SepNet.pdb
+C:\Users\vasyl\source\repos\SepNet\SepNet\obj\Debug\SepNet.Form1.resources
+C:\SepNet (без коментарів)\SepNet\bin\Debug\SepNet.exe.config
+C:\SepNet (без коментарів)\SepNet\bin\Debug\SepNet.exe
+C:\SepNet (без коментарів)\SepNet\bin\Debug\SepNet.pdb
+C:\SepNet (без коментарів)\SepNet\obj\Debug\SepNet.csprojResolveAssemblyReference.cache
+C:\SepNet (без коментарів)\SepNet\obj\Debug\SepNet.Form1.resources
+C:\SepNet (без коментарів)\SepNet\obj\Debug\SepNet.Properties.Resources.resources
+C:\SepNet (без коментарів)\SepNet\obj\Debug\SepNet.csproj.GenerateResource.cache
+C:\SepNet (без коментарів)\SepNet\obj\Debug\SepNet.csproj.CoreCompileInputs.cache
+C:\SepNet (без коментарів)\SepNet\obj\Debug\SepNet.exe
+C:\SepNet (без коментарів)\SepNet\obj\Debug\SepNet.pdb
+C:\SepNet\SepNet\bin\Debug\SepNet.exe.config
+C:\SepNet\SepNet\bin\Debug\SepNet.exe
+C:\SepNet\SepNet\bin\Debug\SepNet.pdb
+C:\SepNet\SepNet\obj\Debug\SepNet.csprojResolveAssemblyReference.cache
+C:\SepNet\SepNet\obj\Debug\SepNet.Form1.resources
+C:\SepNet\SepNet\obj\Debug\SepNet.Properties.Resources.resources
+C:\SepNet\SepNet\obj\Debug\SepNet.csproj.GenerateResource.cache
+C:\SepNet\SepNet\obj\Debug\SepNet.csproj.CoreCompileInputs.cache
+C:\SepNet\SepNet\obj\Debug\SepNet.exe
+C:\SepNet\SepNet\obj\Debug\SepNet.pdb
